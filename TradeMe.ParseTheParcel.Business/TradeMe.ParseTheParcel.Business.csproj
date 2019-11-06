@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TradeMe.ParseTheParcel.Data\TradeMe.ParseTheParcel.Data.csproj" />
+    <ProjectReference Include="..\TradeMe.ParseTheParcel.Utilities\TradeMe.ParseTheParcel.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
