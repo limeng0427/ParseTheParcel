@@ -27,14 +27,14 @@ We will send you an invite to our Bitbucket git repository where you can commit 
 Best of luck, and we look forwards to your response!
 
 
-# Task Implementation Summary #
-a. The task is implemented with .NetCore3.0 in Vistual Studio.
-b. 5 Projects are added to the solution. They are Console Project for demo, Business class library, Data Model class library, Unit Test Project, Utility class library.
-c. Unit Testing is implemented with xUnit, Moq libraries.
-d. Project implementation tries to refer to the SOLID principle and makes each component more independent and reusable.
-e. Factory Pattern is used to implement retriving existing package type information from multi data sources.
-
-Thanks again for sharing this opportunity and I appreciate your time reviewing my code.
-Any questions, suggestions and comments are more than welcome.
-
-Liam
+# Task Implementation Summary #  
+a. The task is implemented with .NetCore3.0 in Vistual Studio.  
+b. 5 Projects are added to the solution. They are Console Project for demo, Business class library, Data Model class library, Unit Test Project, Utility class library.  
+c. Unit Testing is implemented with xUnit, Moq libraries.  
+d. Project implementation tries to refer to the SOLID principle and makes each component more independent and reusable.  
+e. Factory Pattern is used to implement retriving existing package type information from multi data sources.  
+  
+Thanks again for sharing this opportunity and I appreciate your time reviewing my code.  
+Any questions, suggestions and comments are more than welcome.  
+  
+Liam  
